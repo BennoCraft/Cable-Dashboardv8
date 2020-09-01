@@ -11,9 +11,8 @@
 
 > Cables official dashboard!
 
-### 🏠 [Homepage](fill in later)
 
-### ✨ [Demo](fill in later)
+### ✨ [Demo](http://cable.bennocraft.net) <-- will be inserted later
 
 ## Install
 
