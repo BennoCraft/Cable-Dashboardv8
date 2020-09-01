@@ -58,5 +58,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [Benno, Ricky, Jessica, Jeffery](https://github.com/BennoCraft, https://github.com/RickyDoesCode, https://github.com/honeyai, https://github.com/SunShineOneX).<br />
+Copyright © 2020 [@BennoCraft](https://github.com/BennoCraft) [@RickyDoesCode](https://github.com/RickyDoesCode) [@honeyai](https://github.com/honeyai) [@SunShineOneX](https://github.com/SunShineOneX)
+.<br />
 This project is [MIT](https://github.com/BennoCraft/Cable-Dashboardv8/blob/master/LICENSE) licensed.
