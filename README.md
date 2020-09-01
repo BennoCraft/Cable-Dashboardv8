@@ -41,7 +41,10 @@ maybe later
 👤 **Benno, Ricky, Jessica, Jeffery**
 
 * Website: http://cable.bennocraft.net
-* Github: [@BennoCraft](https://github.com/BennoCraft)
+* Github: [@BennoCraft](https://github.com/BennoCraft) 
+          [@RickyDoesCode](https://github.com/RickyDoesCode)  
+          [@honeyai](https://github.com/honeyai)  
+          [@SunShineOneX](https://github.com/SunShineOneX)
 
 ## 🤝 Contributing
 
