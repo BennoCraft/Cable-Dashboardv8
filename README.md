@@ -55,7 +55,7 @@ npm start
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](maybe later). You can also take a look at the [contributing guide](maybe later).
+Contributions, issues and feature requests are welcome!
 
 ## Show your support
 
