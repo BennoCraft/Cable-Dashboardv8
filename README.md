@@ -4,7 +4,7 @@
   <a href="" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-no-red.svg" />
   </a>
-  <a href="maybe later" target="_blank">
+  <a href="https://github.com/BennoCraft/Cable-Dashboardv8/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
