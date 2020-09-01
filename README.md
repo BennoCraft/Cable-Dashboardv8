@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Cable-Dashboard 👋</h1>
+<h1 align="center">Cable-Dashboard</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v8-blue.svg?cacheSeconds=2592000" />
   <a href="fill in later" target="_blank">
@@ -41,9 +41,7 @@ maybe later
 👤 **Benno, Ricky, Jessica, Jeffery**
 
 * Website: http://cable.bennocraft.net
-* Twitter: [@fill in later](https://twitter.com/fill in later)
-* Github: [@BennoCraft, RickyDoesCode, honeyai, SunShineOneX](https://github.com/BennoCraft, https://github.com/RickyDoesCode, https://github.com/honeyai, https://github.com/SunShineOneX)
-* LinkedIn: [@fill in later](https://linkedin.com/in/fill in later)
+* Github: [@BennoCraft](https://github.com/BennoCraft)
 
 ## 🤝 Contributing
 
