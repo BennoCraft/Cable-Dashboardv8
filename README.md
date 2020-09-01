@@ -27,7 +27,7 @@
 ## Run
 
 ```sh
-Use npm start to run the bot. 
+npm start
 ```
 
 ## Author
