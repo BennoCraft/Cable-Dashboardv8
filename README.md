@@ -7,9 +7,6 @@
   <a href="maybe later" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/fill in later" target="_blank">
-    <img alt="Twitter: fill in later" src="https://img.shields.io/twitter/follow/fill in later.svg?style=social" />
-  </a>
 </p>
 
 > Cables official dashboard!
@@ -21,19 +18,16 @@
 ## Install
 
 ```sh
-maybe later
+1. Install the latest version of node.js.
+2. Install RethinkDB server, instructions can be found here and create a Database with the name Amigo.
+3. Make sure all dependencies are installed by running the command npm install
+4. Change config.json.example to config.json and insert the bot token, the Bot Owner's ID and the Discord webhook logging link.
 ```
 
-## Usage
+## Run
 
 ```sh
-maybe later
-```
-
-## Run tests
-
-```sh
-maybe later
+Use npm start to run the bot. 
 ```
 
 ## Author
