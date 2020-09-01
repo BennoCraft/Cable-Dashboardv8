@@ -21,7 +21,25 @@
 1. Install the latest version of node.js.
 2. Install RethinkDB server, instructions can be found here and create a Database with the name Amigo.
 3. Make sure all dependencies are installed by running the command npm install
-4. Change config.json.example to config.json and insert the bot token, the Bot Owner's ID and the Discord webhook logging link.
+4. Create a config.json and insert the bot token, the Bot Owner's ID and the Discord webhook logging link.
+
+like this:
+
+{
+	"token": "BotToken",
+	"ownerID": "IdOfBotOwner",
+	"webhook": "DashboardLogChannel",
+	"defaultPrefix": "c!", //change this too the bots prefix
+	"clientSecret": "clientsecret",
+	"websiteURL": "http://localhost:3000/",
+	
+
+	"red": "0xffb3ba",
+	"orange": "0xffdfba",
+	"yellow": "0xfffba",
+	"green": "0xbaffc9",
+	"blue": "0xbae1ff"
+}
 ```
 
 ## Run
