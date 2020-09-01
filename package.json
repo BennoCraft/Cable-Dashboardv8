@@ -1,21 +1,12 @@
 {
-  "name": "amigo",
+  "name": "Cable",
   "version": "1.0.0",
   "description": "A multifunctional Discord.js bot.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AmigoDevTeam/Amigo.git"
-  },
-  "author": "ben071",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/AmigoDevTeam/Amigo/issues"
-  },
-  "homepage": "https://github.com/AmigoDevTeam/Amigo#readme",
+  }
   "dependencies": {
     "axios": "^0.19.0",
     "chalk": "^2.4.2",
