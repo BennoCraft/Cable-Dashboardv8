@@ -1,7 +1,7 @@
 <h1 align="center">Cable-Dashboard</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v8-blue.svg?cacheSeconds=2592000" />
-  <a href="fill in later" target="_blank">
+  <a href="" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-no-red.svg" />
   </a>
   <a href="maybe later" target="_blank">
